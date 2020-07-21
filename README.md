@@ -1,3 +1,35 @@
+## Hi there, I'm Rahul. 👋<br/><br/>I like solving problems with code.
+
+<table><tr><td valign="top" width="50%">
+
+My favorite languages are:
+
+- Golang <img src="" alt="Logo for Golang" width="16px" height="16px">
+- Java <img src="" alt="Logo for Java" width="16px" height="16px">
+- Python <img src="" alt="Logo for Python" width="16px" height="16px">
+- Scala <img src="" alt="Logo for Scala" width="16px" height="16px">
+
+</td><td valign="top" width="50%">
+
+Other technologies I have used:
+
+- MySql <img src="" alt="Logo for MySql" width="16px" height="16px">
+- PostgreSQL <img src="" alt="Logo for PostgreSQL" width="16px" height="16px">
+
+Other places to find me:
+
+- <a href=""><img src="" alt="Logo for twitter" width="16px" height="16px"></a>
+- <a href=""><img src="" alt="Logo for codepen" width="16px" height="16px"></a>
+- <a href=""><img src="" alt="Logo for freecodecamp" width="16px" height="16px"></a>
+
+</td></tr><tr><td colspan="2" valign="top" width="50%">
+
+Here's what I have been up to on [Exercism.io](https://exercism.io)&#58;
+
+
+</td></tr></table>
+
+
 ### Hi there 👋
 
 <!--
