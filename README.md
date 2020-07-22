@@ -13,7 +13,7 @@ My favorite languages are:
 
 Other technologies I have used:
 
-- MySql <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/mysql.svg" alt="Logo for MySql" width="16px" height="16px">
+- MySql <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/mysql-official.svg" alt="Logo for MySql" width="16px" height="16px">
 - PostgreSQL <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/postgresql-icon.svg" alt="Logo for PostgreSQL" width="16px" height="16px">
 
 Other places to find me:
