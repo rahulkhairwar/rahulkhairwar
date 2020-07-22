@@ -5,9 +5,9 @@
 My favorite languages are:
 
 - Golang <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/go-seeklogo.com.svg" alt="Logo for Golang" width="16px" height="16px">
-- Java <img src="" alt="Logo for Java" width="16px" height="16px">
-- Python <img src="" alt="Logo for Python" width="16px" height="16px">
-- Scala <img src="" alt="Logo for Scala" width="16px" height="16px">
+- Java <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/java-seeklogo.com.svg" alt="Logo for Java" width="16px" height="16px">
+- Python <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/Python_logo_icon.png" alt="Logo for Python" width="16px" height="16px">
+- Scala <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/scala-seeklogo.com.svg" alt="Logo for Scala" width="16px" height="16px">
 
 </td><td valign="top" width="50%">
 
