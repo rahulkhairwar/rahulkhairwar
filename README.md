@@ -16,15 +16,15 @@ Other technologies I have used:
 - MySql <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/mysql-official.svg" alt="Logo for MySql" width="16px" height="16px">
 - PostgreSQL <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/postgresql-icon.svg" alt="Logo for PostgreSQL" width="16px" height="16px">
 
-Other places to find me:
+<!-- Other places to find me:-->
 
-- <a href=""><img src="" alt="Logo for twitter" width="16px" height="16px"></a>
-- <a href=""><img src="" alt="Logo for codepen" width="16px" height="16px"></a>
-- <a href=""><img src="" alt="Logo for freecodecamp" width="16px" height="16px"></a>
+<!-- - <a href=""><img src="" alt="Logo for twitter" width="16px" height="16px"></a> -->
+<!-- - <a href=""><img src="" alt="Logo for codepen" width="16px" height="16px"></a> -->
+<!-- - <a href=""><img src="" alt="Logo for freecodecamp" width="16px" height="16px"></a> -->
 
 </td></tr><tr><td colspan="2" valign="top" width="50%">
 
-Here's what I have been up to on [Exercism.io](https://exercism.io)&#58;
+<!-- Here's what I have been up to on [Exercism.io](https://exercism.io)&#58; -->
 
 
 </td></tr></table>
