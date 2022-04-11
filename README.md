@@ -1,4 +1,4 @@
-## Hi there, I'm Rahul. 👋<br/><br/>I guess one could say that I like looking at the screen 7 hours a day 💻🙃.
+## Hi there, I'm Rahul. 👋<br/>I guess one could say that I like looking at the screen 7 hours a day 💻🙃.
 
 <table><tr><td valign="top" width="50%">
 
@@ -18,20 +18,12 @@ I recomment storing your foos and bars into:
 
 
 <!-- Other places to find me:-->
-
 <!-- - <a href=""><img src="" alt="Logo for twitter" width="16px" height="16px"></a> -->
 <!-- - <a href=""><img src="" alt="Logo for codepen" width="16px" height="16px"></a> -->
 <!-- - <a href=""><img src="" alt="Logo for freecodecamp" width="16px" height="16px"></a> -->
 
 </td></tr><tr><td colspan="2" valign="top" width="50%">
-
-<!-- Here's what I have been up to on [Exercism.io](https://exercism.io)&#58; -->
-
-
 </td></tr></table>
-
-
-### Hi there 👋
 
 <!--
 **rahulkhairwar/rahulkhairwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
