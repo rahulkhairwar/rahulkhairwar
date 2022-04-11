@@ -1,8 +1,8 @@
-## Hi there, I'm Rahul. 👋<br/><br/>I like solving problems with code.
+## Hi there, I'm Rahul. 👋<br/><br/>I guess one could say that I like looking at the screen 7 hours a day 💻🙃.
 
 <table><tr><td valign="top" width="50%">
 
-My favorite languages are:
+My favorite syntaxes to stare at, into oblivion, are:
 
 - Golang <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/go-seeklogo.com.svg" alt="Logo for Golang" width="16px" height="16px">
 - Java <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/java-seeklogo.com.svg" alt="Logo for Java" width="16px" height="16px">
@@ -11,10 +11,11 @@ My favorite languages are:
 
 </td><td valign="top" width="50%">
 
-Other technologies I have used:
+I recomment storing your foos and bars into:
 
 - MySql <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/mysql-official.svg" alt="Logo for MySql" width="16px" height="16px">
 - PostgreSQL <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/postgresql-icon.svg" alt="Logo for PostgreSQL" width="16px" height="16px">
+
 
 <!-- Other places to find me:-->
 
