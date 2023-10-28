@@ -1,4 +1,8 @@
-## Hi there, I'm Rahul. 👋<br/>I guess one could say that I like looking at the screen 7 hours a day 💻🙃.
+## Hi there, I'm Rahul. 👋
+<br />
+### I'm a passionate Software Engineer, who is equally as enthusiastic about people!
+
+Currently working as a Lead Backend Engineer at [Kredivo Group](https://www.linkedin.com/company/kredivo-group/mycompany/), based in Singapore.
 
 <table><tr><td valign="top" width="50%">
 
