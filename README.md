@@ -15,7 +15,7 @@ My favorite syntaxes to stare at, into oblivion, are:
 
 </td><td valign="top" width="50%">
 
-I recomment storing your foos and bars into:
+I recommend storing your foos and bars into:
 
 - MySql <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/mysql-official.svg" alt="Logo for MySql" width="16px" height="16px">
 - PostgreSQL <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/postgresql-icon.svg" alt="Logo for PostgreSQL" width="16px" height="16px">
