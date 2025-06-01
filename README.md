@@ -1,8 +1,8 @@
 ## Hi there, I'm Rahul. 👋
 <br />
-### I'm a passionate Software Engineer, who is equally as enthusiastic about people!
+I'm a passionate Software Engineer, who is equally as enthusiastic about people!
 
-Currently working as a Lead Backend Engineer at [Kredivo Group](https://www.linkedin.com/company/kredivo-group/mycompany/), based in Singapore.
+Currently working as an Engineering Manager at [Kredivo Group](https://www.linkedin.com/company/kredivo-group/mycompany/), based in Singapore.
 
 <table><tr><td valign="top" width="50%">
 
@@ -15,10 +15,11 @@ My favorite syntaxes to stare at, into oblivion, are:
 
 </td><td valign="top" width="50%">
 
-I recommend storing your foos and bars into:
+<!-- I recommend storing your foos and bars into:
 
 - MySql <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/mysql-official.svg" alt="Logo for MySql" width="16px" height="16px">
 - PostgreSQL <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/postgresql-icon.svg" alt="Logo for PostgreSQL" width="16px" height="16px">
+-->
 
 
 <!-- Other places to find me:-->
