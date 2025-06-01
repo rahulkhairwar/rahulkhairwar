@@ -4,7 +4,7 @@ I'm a passionate Software Engineer, who is equally as enthusiastic about people!
 
 Currently working as an Engineering Manager at [Kredivo Group](https://www.linkedin.com/company/kredivo-group/mycompany/), based in Singapore.
 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 My favorite syntaxes to stare at, into oblivion, are:
 
@@ -13,7 +13,9 @@ My favorite syntaxes to stare at, into oblivion, are:
 - Python <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/Python_logo_icon.png" alt="Logo for Python" width="16px" height="16px">
 - Scala <img src="https://github.com/rahulkhairwar/rahulkhairwar/blob/master/images/scala-seeklogo.com.svg" alt="Logo for Scala" width="16px" height="16px">
 
+
 </td><td valign="top" width="50%">
+-->
 
 <!-- I recommend storing your foos and bars into:
 
